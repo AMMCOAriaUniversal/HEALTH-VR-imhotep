@@ -1,4 +1,4 @@
-IMHOTEP
+AI Health Smart Medic. 
 ===========================================================================
 
 [IMHOTEP (Immersive Medical Hands-On Operation Teaching and Planning System)](http://imhotep-medical.org) is a
